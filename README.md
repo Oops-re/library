@@ -2,7 +2,6 @@
 这里存放的是我学习时看的一些电子书，如有侵犯了您的利益，请您联系我，立马删除！！！
 
 
-链接
 链接：https://pan.baidu.com/s/16Ln_oemLDdHB1h9aMuM-lw 
 提取码：oops
 
@@ -24,3 +23,4 @@ windows核心编程.pdf
 
 从0到1学习路由器漏洞挖掘.pdf
 
+漏洞挖掘.pdf
